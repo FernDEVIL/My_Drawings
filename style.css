@@ -1,0 +1,199 @@
+#main_heading {
+    color: red;
+    font-size: 50;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+body {
+    text-align: center;
+    background: linear-gradient(135deg, violet, indigo, blue, green, rgb(224, 224, 9), orange, red);
+}
+
+#intro_p {
+    color: aqua;
+    font-size: 25;
+    font-weight: bold;
+}
+
+#img1 {
+    border: solid;
+    border-radius: 20px;
+    border-color: red;
+}
+
+#img1_heading {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30;
+    color: red;
+}
+
+#time_p {
+    background: pink;
+    border-radius: 10px;
+    margin-left: 620px;
+    color: darkgreen;
+    font-weight: 700;
+    font-size: 18;
+    width: 250px
+}
+
+#img1_info {
+    background: pink;
+    border-radius: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    color: darkgreen;
+    font-weight: 700;
+    font-size: 18;
+}
+
+#btn_1 {
+    color: red;
+    border-radius: 10px;
+    background: yellow;
+}
+
+#img2 {
+    border: solid;
+    border-radius: 20px;
+    border-color: red;
+    width: 500px;
+}
+
+#img2_heading {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30;
+    color: red;
+}
+
+#img2_info {
+    background: pink;
+    border-radius: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    color: darkgreen;
+    font-weight: 700;
+    font-size: 18;
+}
+
+#btn_2 {
+    color: red;
+    border-radius: 10px;
+    background: yellow;
+}
+
+#img3 {
+    border: solid;
+    border-radius: 20px;
+    border-color: red;
+    width: 450px;
+}
+
+#img3_heading {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30;
+    color: red;
+}
+
+#img3_info {
+    background: pink;
+    border-radius: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    color: darkgreen;
+    font-weight: 700;
+    font-size: 18;
+}
+
+#btn_3 {
+    color: red;
+    border-radius: 10px;
+    background: yellow;
+}
+
+#img4 {
+    border: solid;
+    border-radius: 20px;
+    border-color: red;
+    width: 450px;
+}
+
+#img4_heading {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30;
+    color: red;
+}
+
+#img4_info {
+    background: pink;
+    border-radius: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    color: darkgreen;
+    font-weight: 700;
+    font-size: 18;
+}
+
+#btn_4 {
+    color: red;
+    border-radius: 10px;
+    background: yellow;
+}
+
+#img5 {
+    border: solid;
+    border-radius: 20px;
+    border-color: red;
+    width: 450px;
+}
+
+#img5_heading {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30;
+    color: red;
+}
+
+#img5_info {
+    background: pink;
+    border-radius: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    color: darkgreen;
+    font-weight: 700;
+    font-size: 18;
+}
+
+#btn_5 {
+    color: red;
+    border-radius: 10px;
+    background: yellow;
+}
+
+#img6 {
+    border: solid;
+    border-radius: 20px;
+    border-color: red;
+    width: 450px;
+}
+
+#img6_heading {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30;
+    color: red;
+}
+
+#img6_info {
+    background: pink;
+    border-radius: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    color: darkgreen;
+    font-weight: 700;
+    font-size: 18;
+}
+
+#btn_6 {
+    color: red;
+    border-radius: 10px;
+    background: yellow;
+}
